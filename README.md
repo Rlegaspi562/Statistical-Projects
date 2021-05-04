@@ -15,6 +15,7 @@ If you follow the above high-level and specific advice your Project work should 
 
  ##  [Predicting Home Sales Prices Using Multiple Linear Regression Part 1](https://github.com/Rlegaspi562/Statistical-Projects/blob/main/Predicting%20Home%20Prices%20Using%20Multiple%20Linear%20Regression/Predicting%20Home%20Sales%20Prices%20Using%20Multiple%20Linear%20Regression%20Analysis%20Pt.%201.pdf)
 
+### Synopsis
 
 **Objective & Motivation**: The city tax assessor is interested in predicting residential home sales prices in a midwestern city given a dataset of various characteristics of the home and surrounding property. The feautures we use to predict sales price of a home are number of bedrooms, bathrooms, and garage size. 
 
@@ -38,6 +39,8 @@ If you follow the above high-level and specific advice your Project work should 
   - Correlation Matrices
 
  ##  [Predicting Home Sales Prices Using Multiple Linear Regression Part 2](https://github.com/Rlegaspi562/Statistical-Projects/blob/main/Predicting%20Home%20Prices%20Using%20Multiple%20Linear%20Regression/Predicting%20Home%20Sales%20Prices%20Using%20Multiple%20Linear%20Regression%20Analysis%20Pt.%202.pdf)
+
+### Synopsis
 
 **Objective & Motivation**: We continue our project of predicting residential home sales prices using the same dataset but now using different given features/explanatory variables: area of residence in square feet, and the absence or presence of a swimming pool or air conditioning in the home property. 
 
@@ -63,6 +66,8 @@ For future reference we understand that our dataset is unbalanced with only abou
 
  ##  [Regression Analysis of Infection Risk and Length of Stay](https://github.com/Rlegaspi562/Statistical-Projects/blob/main/Regression%20Analysis%20of%20Infection%20Risk%20and%20Length%20of%20Stay/Regression%20Analysis%20of%20Infection%20Risk%20and%20Length%20of%20Stay.pdf)
 
+
+### Synopsis
 
 
 

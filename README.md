@@ -17,7 +17,7 @@ If you follow the above high-level and specific advice your Project work should 
 
 ### Synopsis
 
-**Objective & Motivation**: The city tax assessor is interested in predicting residential home sales prices in a midwestern city given a dataset of various characteristics of the home and surrounding property. The feautures we use to predict sales price of a home are number of bedrooms, bathrooms, and garage size. 
+**Objective & Motivation**: The city tax assessor is interested in predicting residential home sales prices in a midwestern city given a dataset of various characteristics of the home and surrounding property. The features we use to predict sales price of a home are number of bedrooms, bathrooms, and garage size. 
 
 **Role**: Statistician
 

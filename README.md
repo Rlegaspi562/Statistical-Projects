@@ -62,3 +62,8 @@ Based on our regression analysis it is clear that a property with a swimming poo
 For future reference we understand that our dataset is unbalanced with only about 7%, or 36 out of 522 observations owning swimming pools and 16%, or 88 out of 522 observations having air conditioning. Moving forward one way to correct this would be to collect more data from houses containing these features. Also, since the Interaction term between owning a swimming pool and having air conditioning is not significant and therefore remove this from the model.
 
 * ##  [Regression Analysis of Infection Risk and Length of Stay](https://github.com/Rlegaspi562/Statistical-Projects/blob/main/Regression%20Analysis%20of%20Infection%20Risk%20and%20Length%20of%20Stay/Regression%20Analysis%20of%20Infection%20Risk%20and%20Length%20of%20Stay.pdf)
+
+
+
+
+

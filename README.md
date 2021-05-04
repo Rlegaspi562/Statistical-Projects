@@ -2,7 +2,7 @@
 This repository is a collection of my projects focused on applied statistics
 
 
-Click on any files to open the project pdf!
+Click on the link for the view full project pdf
 
 <!---
 Objective & Motivation: What you were trying to do, and why
@@ -38,6 +38,10 @@ If you follow the above high-level and specific advice your Project work should 
   - Scatterplots
   - Correlation Matrices
 
+
+### **Results**:
+Based on the results...
+
  ##  [Predicting Home Sales Prices Using Multiple Linear Regression Part 2](https://github.com/Rlegaspi562/Statistical-Projects/blob/main/Predicting%20Home%20Prices%20Using%20Multiple%20Linear%20Regression/Predicting%20Home%20Sales%20Prices%20Using%20Multiple%20Linear%20Regression%20Analysis%20Pt.%202.pdf)
 
 ### Synopsis
@@ -59,7 +63,7 @@ Based on our two-sided hypothesis test, we concluded that the slope coefficient 
 In the second part of our analytical study, a multi-linear regression model that contains the interaction term of the dummy variable and the continuous variable was created. The goal of this was to establish whether the different linear regression models that resulted when the home contained a pool or did not contain a pool. We also looked at the effect that this would have dependent on the square footage of the property. The model revealed that our regression lines are not parallel, and a relationship exists between the two lines.
 
 Based on our regression analysis it is clear that a property with a swimming pool and air conditioning ($356,752.3), cost significantly more than a property without 
-($189,578.2.).
+($189,578.2.). In this case if I were looking to buy a home in the future perhaps a home with just air conditioning would suffice. 
 
 ### **Looking Forward**:
 For future reference we understand that our dataset is unbalanced with only about 7%, or 36 out of 522 observations owning swimming pools and 16%, or 88 out of 522 observations having air conditioning. Moving forward one way to correct this would be to collect more data from houses containing these features. Also, since the Interaction term between owning a swimming pool and having air conditioning is not significant and therefore remove this from the model.
@@ -69,6 +73,30 @@ For future reference we understand that our dataset is unbalanced with only abou
 
 ### Synopsis
 
+**Objective & Motivation**: A health Insurance company wants to analyze the average length of stay of inpatients at a certain hospital and see if there are any relations with the average estimated probability of inpatients acquiring an infection while in the hospital. Therefore, the independent variable (feature) we use will be the Infection risk probability and our response variable as the length of stay.  
 
 
+**Role**: Statistician
 
+**Data**: We are conducting a simple linear regression model using the SENIC hospital dataset containing 113 observations. 
+
+**Models and statistical techniques**:  Used R as the main programming language to conduct statistical analysis and Rmarkdown to knit and export results into a PDF
+- Interpretation and Parameter Inference
+  - Scatterplot
+  - Fitting a Linear Regression model
+  - R-Squared
+  - T-Testing
+- Point and Interval Estimation
+  - 95% Confidence Interval for mean length of stay
+  - 95% Prediction Interval for length of stay when infection risk is 5 percent
+- Diagnostics & Checking Model Assumptions
+  - Testing Normality: Plotting to Check for Normality and Equal Variance Assumptions
+  - Boxplot & Histogram Interpretations
+  - Partial F-Test to assess reduced and full model significance
+  - Possible omitted predictors
+
+
+### **Results**:
+
+### **Looking Forward**:
+Due to our model violating normality and homoskedasticity assumptions, remedial measures should be considered so that having a linear regression model is appropriate.

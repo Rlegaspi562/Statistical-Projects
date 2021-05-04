@@ -40,7 +40,8 @@ If you follow the above high-level and specific advice your Project work should 
 
 
 ### **Results**:
-Based on the results...
+- There is significance in keeping bathroom and garage size features in our model.
+- Based on the results we see that removing either bedroom or bathroom from our model is essential because both are highly correlated with each other thereby making it difficult for our model to attribute significance to our predictor variables.
 
  ##  [Predicting Home Sales Prices Using Multiple Linear Regression Part 2](https://github.com/Rlegaspi562/Statistical-Projects/blob/main/Predicting%20Home%20Prices%20Using%20Multiple%20Linear%20Regression/Predicting%20Home%20Sales%20Prices%20Using%20Multiple%20Linear%20Regression%20Analysis%20Pt.%202.pdf)
 
@@ -96,7 +97,7 @@ For future reference we understand that our dataset is unbalanced with only abou
   - Possible omitted predictors
 
 
-### **Results**:
+### **Results**
 
 ### **Looking Forward**:
 Due to our model violating normality and homoskedasticity assumptions, remedial measures should be considered so that having a linear regression model is appropriate.

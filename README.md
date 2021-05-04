@@ -13,7 +13,7 @@ Code: It is worth linking to your Github account to give the Hiring Manager the 
 Results: Try whenever possible to demonstrate the outcome with numerical impact or significance (it pops off the resume more than a text-only sentence) and is an indicator of how impact-oriented (or not!) you are in your work
 If you follow the above high-level and specific advice your Project work should start to work for you! -->
 
-* ##  [Predicting Home Sales Prices Using Multiple Linear Regression Part 1](https://github.com/Rlegaspi562/Statistical-Projects/blob/main/Predicting%20Home%20Prices%20Using%20Multiple%20Linear%20Regression/Predicting%20Home%20Sales%20Prices%20Using%20Multiple%20Linear%20Regression%20Analysis%20Pt.%201.pdf)
+ ##  [Predicting Home Sales Prices Using Multiple Linear Regression Part 1](https://github.com/Rlegaspi562/Statistical-Projects/blob/main/Predicting%20Home%20Prices%20Using%20Multiple%20Linear%20Regression/Predicting%20Home%20Sales%20Prices%20Using%20Multiple%20Linear%20Regression%20Analysis%20Pt.%201.pdf)
 
 
 Objective & Motivation: The city tax assessor is interested in predicting residential home sales prices in a midwestern city given a dataset of various characteristics of the home and surrounding property. The feautures we use to predict sales price of a home are number of bedrooms, bathrooms, and garage size. 
@@ -37,7 +37,7 @@ Models and statistical techniques:  Used R as the main programming language to c
   - Scatterplots
   - Correlation Matrices
 
-* ##  [Predicting Home Sales Prices Using Multiple Linear Regression Part 2](https://github.com/Rlegaspi562/Statistical-Projects/blob/main/Predicting%20Home%20Prices%20Using%20Multiple%20Linear%20Regression/Predicting%20Home%20Sales%20Prices%20Using%20Multiple%20Linear%20Regression%20Analysis%20Pt.%202.pdf)
+ ##  [Predicting Home Sales Prices Using Multiple Linear Regression Part 2](https://github.com/Rlegaspi562/Statistical-Projects/blob/main/Predicting%20Home%20Prices%20Using%20Multiple%20Linear%20Regression/Predicting%20Home%20Sales%20Prices%20Using%20Multiple%20Linear%20Regression%20Analysis%20Pt.%202.pdf)
 
 Objective & Motivation: We continue our project of predicting residential home sales prices using the same dataset but now using different given features/explanatory variables: area of residence in square feet, and the absence or presence of a swimming pool or air conditioning in the home property. 
 
@@ -61,7 +61,7 @@ Based on our regression analysis it is clear that a property with a swimming poo
 ### Looking Forward:
 For future reference we understand that our dataset is unbalanced with only about 7%, or 36 out of 522 observations owning swimming pools and 16%, or 88 out of 522 observations having air conditioning. Moving forward one way to correct this would be to collect more data from houses containing these features. Also, since the Interaction term between owning a swimming pool and having air conditioning is not significant and therefore remove this from the model.
 
-* ##  [Regression Analysis of Infection Risk and Length of Stay](https://github.com/Rlegaspi562/Statistical-Projects/blob/main/Regression%20Analysis%20of%20Infection%20Risk%20and%20Length%20of%20Stay/Regression%20Analysis%20of%20Infection%20Risk%20and%20Length%20of%20Stay.pdf)
+ ##  [Regression Analysis of Infection Risk and Length of Stay](https://github.com/Rlegaspi562/Statistical-Projects/blob/main/Regression%20Analysis%20of%20Infection%20Risk%20and%20Length%20of%20Stay/Regression%20Analysis%20of%20Infection%20Risk%20and%20Length%20of%20Stay.pdf)
 
 
 

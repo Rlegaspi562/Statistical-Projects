@@ -1,4 +1,4 @@
-# Statistical-Projects
+# Applied Statistics Projects
 This repository is a collection of my projects focused on applied statistics
 
 
